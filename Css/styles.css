@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Poppins', sans-serif;
+    color: black;
+}
+
+/* HEADER*/
+
+.header-container{
+    height: 100vh;/* altura*/
+    width: 100vh; /*largura*/
+    background-color: aqua;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;/* deixa a imagem no centro*/
+    
+}
